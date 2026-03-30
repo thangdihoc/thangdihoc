@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-*`đang tự học... đang xây dựng... đang khám phá...`*
+*`đang tự học... ... đang khám phá...`*
 
 <br>
 
@@ -29,18 +29,10 @@
 
 ```yaml
 languages:  [HTML, CSS, JavaScript]
-exploring:  [AI Agents, Go, Automation]
-tools:      [Git, OpenClaw, VPS]
-status:     learning...
 ```
 
 <br>
 
-#### `thứ đã làm`
-
-| Dự án | Mô tả |
-|-------|--------|
-| [AI Virtual Try-On](https://github.com/thangdihoc/thangdihoc.github.io) | Giao diện thử đồ ảo bằng AI |
 
 <br>
 
